@@ -52,7 +52,13 @@ git log
 
 ## Таблицы
 
+В чистом Маркдауне нет синтаксиса для таблиц, а в GFM
+есть.
 
+First Header | Second Header
+------------- | -------------
+Content Cell | Content Cell
+Content Cell | Content Cell
 
 
 
