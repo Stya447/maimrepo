@@ -97,3 +97,11 @@ Content Cell | Content Cell
 **Если свое фото - то указываем его название:**
 
 ![мое фото](photo_2022-06-29_00-00-15.jpg)
+
+**Если мы хотим добавить изображения-ссылки, то нашу конструкцию нужно сделать такой:**
+
+~~~
+[![альтернативный текст(ссылка)]](ссылка на другую картинку - наш перевертыш)
+~~~
+
+[![Фото Васи и Пети - нажми, получишь бонус](https://images.unsplash.com/photo-1486425091969-f62210f08a26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80)](https://images.unsplash.com/photo-1501620363363-4f9cb7fa25e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80)
